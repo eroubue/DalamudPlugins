@@ -11,9 +11,9 @@
 	"DalamudApiLevel": 13,
     "AcceptsFeedback": true,
 	"IconUrl": "https://raw.githubusercontent.com/eroubue/ffxiv-characterstatus-refined/master/images/icon.png",
-	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/main/plugins/CharacterPanelRefined/lastest.zip",
-	"DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/main/plugins/CharacterPanelRefined/lastest.zip",
-	"DownloadLinkTesting": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/main/plugins/CharacterPanelRefined/lastest.zip",
+	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/CharacterPanelRefined/lastest.zip",
+	"DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/CharacterPanelRefined/lastest.zip",
+	"DownloadLinkTesting": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/CharacterPanelRefined/lastest.zip",
 ,
   },
   {
@@ -33,8 +33,8 @@
     "AcceptsFeedback": true,
     "IconUrl": "https://raw.githubusercontent.com/eroubue/RezPls/master/images/icon.png",
     "RepoUrl": "https://github.com/eroubue/RezPls/",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/main/plugins/RezPls/lastest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/main/plugins/RezPls/lastest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPls/lastest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPls/lastest.zip"
   },
    {
     "Name": "Fake Name Reborn",
