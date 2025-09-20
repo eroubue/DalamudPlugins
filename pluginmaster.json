@@ -55,7 +55,7 @@
   },
     {
     "Name": "TPie Reborn",
-    "InternalName": "TPieReborn",
+    "InternalName": "TPie",
     "AssemblyVersion": "1.12.0.0",
     "Author": "Nag0mi Tischel",
     "Punchline": "自定义环形热键栏",
