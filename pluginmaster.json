@@ -13,8 +13,7 @@
 	"IconUrl": "https://raw.githubusercontent.com/eroubue/ffxiv-characterstatus-refined/master/images/icon.png",
 	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/CharacterPanelRefined/lastest.zip",
 	"DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/CharacterPanelRefined/lastest.zip",
-	"DownloadLinkTesting": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/CharacterPanelRefined/lastest.zip",
-,
+	"DownloadLinkTesting": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/CharacterPanelRefined/lastest.zip"
   },
   {
     "Name": "RezPls CN",
