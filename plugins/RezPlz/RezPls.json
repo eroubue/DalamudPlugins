@@ -1,0 +1,27 @@
+{
+  "Author": "Ottermandias Nag0mi(汉化)",
+  "Name": "RezPls",
+  "InternalName": "RezPls",
+  "AssemblyVersion": "1.5.2.0",
+  "Description": "轻松概览谁正在复活谁,\n已经复活了,\n以及世界上谁拥有可驱散的debuff影响.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Ottermandias/RezPls",
+  "Tags": [
+    "Resurrection",
+    "Raise",
+    "Debuff",
+    "Condition",
+    "Status Effect",
+    "Cleanse",
+    "Esuna",
+    "Highlight",
+    "Interface"
+  ],
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "高亮显示被复活和可被驱散的debuff状态.",
+  "AcceptsFeedback": true
+}

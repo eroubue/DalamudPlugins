@@ -1,0 +1,57 @@
+[
+  {
+	"Author": "Kouzukii Nag0mi",
+	"Name": "Character Panel Refined CN",
+	"InternalName": "CharacterPanelRefined",
+	"AssemblyVersion": "1.8.4.1",
+	"Punchline": "优化角色面板，使其仅显示暴击和直接命中几率等有用信息",
+	"Description": "角色面板精炼删除了角色面板中无用的信息，同时添加了有用的统计数据，例如暴击和直击概率百分比以及估计伤害输出，以便更轻松地比较装备。",
+	"ApplicableVersion": "any",
+	"RepoUrl": "https://github.com/eroubue/ffxiv-characterstatus-refined",
+	"DalamudApiLevel": 13,
+    "AcceptsFeedback": true,
+	"IconUrl": "https://raw.githubusercontent.com/eroubue/ffxiv-characterstatus-refined/master/images/icon.png",
+	"DownloadLinkInstall": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/ReMakePlacePlugin/lastest.zip",
+	"DownloadLinkUpdate": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/ReMakePlacePlugin/lastest.zip",
+	"DownloadLinkTesting": "https://raw.githubusercontent.com/Cindy-Master/DalamudPlugins/main/plugins/ReMakePlacePlugin/lastest.zip",
+,
+  },
+  {
+    "Name": "RezPls CN",
+    "InternalName": "RezPls",
+    "AssemblyVersion": "1.5.2.0",
+    "Author": "Ottermandias Nag0mi",
+    "Punchline": "高亮显示被复活和可被驱散的debuff状态.",
+    "Description": "轻松概览谁正在复活谁,\n已经复活了,\n以及世界上谁拥有可驱散的debuff影响.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "复活",
+      "驱散",
+      "显示"
+    ],
+    "DalamudApiLevel": 13,
+    "AcceptsFeedback": true,
+    "IconUrl": "https://raw.githubusercontent.com/eroubue/RezPls/master/images/icon.png",
+    "RepoUrl": "https://github.com/eroubue/RezPls/",
+    "DownloadLinkInstall": "https://github.com/AtmoOmen/UntarnishedHeart/releases/download/0.2.7.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AtmoOmen/UntarnishedHeart/releases/download/0.2.7.0/latest.zip"
+  },
+   {
+    "Name": "Fake Name Reborn",
+    "InternalName": "FakeNameReborn",
+    "AssemblyVersion": "1.3.3.0",
+    "Author": "Nag0mi",
+    "Punchline": "重生之我是FF14打号王!",
+    "Description": "无限制的修改玩家id",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "假名"
+    ],
+    "DalamudApiLevel": 13,
+    "AcceptsFeedback": true,
+    "RepoUrl": "https://github.com/AtmoOmen/DalamudPlugins",
+    "DownloadLinkInstall": "https://github.com/Dalamud-DailyRoutines/Raphael.Dalamud/releases/download/0.0.5.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Dalamud-DailyRoutines/Raphael.Dalamud/releases/download/0.0.5.0/latest.zip"
+  }
+ 
+]
