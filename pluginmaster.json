@@ -32,8 +32,8 @@
     "AcceptsFeedback": true,
     "IconUrl": "https://raw.githubusercontent.com/eroubue/RezPls/master/images/icon.png",
     "RepoUrl": "https://github.com/eroubue/RezPls/",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPls/lastest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPls/lastest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPlz/lastest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPlz/lastest.zip"
   },
    {
     "Name": "Fake Name Reborn",
