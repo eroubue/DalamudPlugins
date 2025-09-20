@@ -1,0 +1,20 @@
+{
+  "Author": "Nag0mi Tischel",
+  "Name": "TPie Reborn",
+  "InternalName": "TPie",
+  "AssemblyVersion": "1.12.0.0",
+  "Description": "高度可配置的快捷栏，可以通过按键绑定进行切换。它们可以填充动作、物品、装备组、宏等等...",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/eroubue/TPie",
+  "Tags": [
+    "UI"
+  ],
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "自定义环形热键栏",
+  "Changelog": "# 1.12.0.0\n\n- Added support for Patch 7.3 and Dalamud API 13.",
+  "AcceptsFeedback": true
+}

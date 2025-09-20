@@ -1,0 +1,24 @@
+{
+  "Author": "Nag0mi",
+  "Name": "FakeNameReborn",
+  "InternalName": "FakeNameReborn",
+  "AssemblyVersion": "1.3.2.0",
+  "Description": "重生之我是FF14打号王!享受无限制的修改id功能.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/eroubue/FakeNameReborn",
+  "Tags": [
+    "name",
+    "ui"
+  ],
+  "CategoryTags": [
+    "ui"
+  ],
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/ArchiDog1998/FakeName/main/icon.png",
+  "Punchline": "无限制的修改id",
+  "AcceptsFeedback": true
+}
