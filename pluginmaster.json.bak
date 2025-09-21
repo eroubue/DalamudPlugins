@@ -52,6 +52,25 @@
 	"IconUrl": "https://raw.githubusercontent.com/ArchiDog1998/FakeName/main/icon.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/FakeNameReborn/lastest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/FakeNameReborn/lastest.zip"
+  },
+    {
+    "Name": "TPie Reborn",
+    "InternalName": "TPieReborn",
+    "AssemblyVersion": "1.12.0.0",
+    "Author": "Nag0mi Tischel",
+    "Punchline": "自定义环形热键栏",
+    "Description": "高度可配置的快捷栏，可以通过按键绑定进行切换。它们可以填充动作、物品、装备组、宏等等...",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "UI",
+      "hotkey"
+    ],
+    "DalamudApiLevel": 13,
+    "AcceptsFeedback": true,
+    "IconUrl": "https://github.com/eroubue/TPie/master/TPie/Media/icon.png",
+    "RepoUrl": "https://github.com/eroubue/TPie",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/TPieReborn/lastest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/TPieReborn/lastest.zip"
   }
  
 ]

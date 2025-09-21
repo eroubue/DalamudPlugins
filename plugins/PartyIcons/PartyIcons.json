@@ -1,0 +1,19 @@
+{
+  "Author": "shdwp, Avaflow, abashby, nebel, Nag0mi",
+  "Name": "Party Icons",
+  "InternalName": "PartyIcons",
+  "AssemblyVersion": "1.2.3.1",
+  "Description": "根据当前内容调整玩家铭牌。例如，您可以显示团队位置（通过监听聊天自动分配）、职业图标或带有职业图标的名称。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/eroubue/xivPartyIcons",
+  "Tags": [
+    "UI"
+  ],
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "用职业图标、职能位置等替换名称",
+  "AcceptsFeedback": true
+}

@@ -1,0 +1,12 @@
+{
+    "Author": "ocealot Nag0mi",
+    "Name": "JobBars CN",
+    "Punchline": "额外职业量谱",
+    "Description": "额外的职业计量表、队伍增益计时器、减伤追踪器等等。图标由 PAPACHIN 设计",
+    "InternalName": "JobBars",
+    "AssemblyVersion": "1.3.2.1",
+    "Tags": [ "UI", "Bars" ],
+    "RepoUrl": "https://github.com/eroubue/JobBars",
+    "DalamudApiLevel": 13,
+    "ApplicableVersion": "any"
+}
