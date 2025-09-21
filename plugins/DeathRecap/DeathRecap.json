@@ -1,0 +1,24 @@
+{
+  "Author": "Kouzukii Nag0mi",
+  "Name": "Death Recap",
+  "InternalName": "DeathRecap",
+  "AssemblyVersion": "1.13.2.1",
+  "Description": "快速确认什么玩意弄死了你和你的小伙伴!\n\n显示:\n- 治疗\n- 受到的伤害\n- Debuffs\n- Buffs\n- 盾\n- 伤害来源的目标减",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/eroubue/ffxiv-deathrecap",
+  "Tags": [
+    "death",
+    "recap",
+    "log"
+  ],
+  "CategoryTags": [
+    "utility"
+  ],
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "快速确认什么玩意弄死了你和你的小伙伴!",
+  "AcceptsFeedback": true
+}

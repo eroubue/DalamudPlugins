@@ -70,7 +70,7 @@
     "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot2.png",
     "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot3.png",
     "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot4.png"
-	]
+	],
     "DalamudApiLevel": 13,
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/InventoryTools/lastest.zip",
@@ -104,7 +104,7 @@
 		"UI"
 	],
 	"DalamudApiLevel": 13,
-	"AcceptsFeedback": true
+	"AcceptsFeedback": true,
 	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/PartyIcons/lastest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/PartyIcons/lastest.zip"
 },
