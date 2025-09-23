@@ -112,7 +112,7 @@
 	"Author": "Kouzukii Nag0mi",
 	"Name": "Death Recap CN",
 	"InternalName": "DeathRecap",
-	"AssemblyVersion": "1.13.2.2",
+	"AssemblyVersion": "1.13.2.1",
 	"Description": "快速确认什么玩意弄死了你和你的小伙伴!\n\n显示:\n- 治疗\n- 受到的伤害\n- Debuffs\n- Buffs\n- 盾\n- 伤害来源的目标减",
 	"ApplicableVersion": "any",
 	"RepoUrl": "https://github.com/eroubue/ffxiv-deathrecap",
@@ -129,25 +129,6 @@
 	"AcceptsFeedback": true,
 	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/DeathRecap/lastest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/DeathRecap/lastest.zip"
-},
-{
-	"Author": "Taurenkey Nag0mi",
-  "Name": "Saucy CN",
-  "Punchline": "有金蝶挂你不开?",
-  "Description": "自动化某些金碟迷你游戏.",
-  "InternalName": "Saucy",
-  "AssemblyVersion": "1.4.2.8",
-  "IconUrl": "https://love.puni.sh/resources/saucy.png",
-  "RepoUrl": "https://github.com/eroubue/Saucy",
-  "DalamudApiLevel": 13,
-  "Tags": [
-    "gold saucer",
-    "mgp",
-    "automation"
-],
-	"AcceptsFeedback": true,
-	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/Saucy/lastest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/Saucy/lastest.zip"
 },
     {
     "Name": "TPie Reborn",
