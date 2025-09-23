@@ -146,8 +146,8 @@
     "automation"
 ],
 	"AcceptsFeedback": true,
-	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/Saucy/lastest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/Saucy/lastest.zip"
+	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/Saucy/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/Saucy/latest.zip"
 },
     {
     "Name": "TPie Reborn",
