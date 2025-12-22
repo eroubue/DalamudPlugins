@@ -2,7 +2,7 @@
   "Author": "Ottermandias Nag0mi(汉化)",
   "Name": "RezPls",
   "InternalName": "RezPls",
-  "AssemblyVersion": "1.5.2.0",
+  "AssemblyVersion": "1.5.3.0",
   "Description": "轻松概览谁正在复活谁,\n已经复活了,\n以及世界上谁拥有可驱散的debuff影响.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Ottermandias/RezPls",
@@ -17,7 +17,7 @@
     "Highlight",
     "Interface"
   ],
-  "DalamudApiLevel": 13,
+  "DalamudApiLevel": 14,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,

@@ -3,17 +3,17 @@
 	"Author": "Kouzukii Nag0mi",
 	"Name": "Character Panel Refined CN",
 	"InternalName": "CharacterPanelRefined",
-	"AssemblyVersion": "1.8.4.1",
-	"Punchline": "优化角色面板，使其仅显示暴击和直接命中几率等有用信息",
+	"AssemblyVersion": "1.8.5.0",
+	"Punchline": "优化角色面板，使其仅显示暴击和直击几率等有用信息",
 	"Description": "角色面板精炼删除了角色面板中无用的信息，同时添加了有用的统计数据，例如暴击和直击概率百分比以及估计伤害输出，以便更轻松地比较装备。",
 	"ApplicableVersion": "any",
 	"RepoUrl": "https://github.com/eroubue/ffxiv-characterstatus-refined",
-	"DalamudApiLevel": 13,
+	"DalamudApiLevel": 14,
     "AcceptsFeedback": true,
 	"IconUrl": "https://raw.githubusercontent.com/eroubue/ffxiv-characterstatus-refined/master/images/icon.png",
-	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/CharacterPanelRefined/lastest.zip",
-	"DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/CharacterPanelRefined/lastest.zip",
-	"DownloadLinkTesting": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/CharacterPanelRefined/lastest.zip"
+	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/CharacterPanelRefined/latest.zip",
+	"DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/CharacterPanelRefined/latest.zip",
+	"DownloadLinkTesting": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/CharacterPanelRefined/latest.zip"
   },
   {
     "Name": "RezPls CN",
@@ -28,12 +28,12 @@
       "驱散",
       "显示"
     ],
-    "DalamudApiLevel": 13,
+    "DalamudApiLevel": 14,
     "AcceptsFeedback": true,
     "IconUrl": "https://raw.githubusercontent.com/eroubue/RezPls/master/images/icon.png",
     "RepoUrl": "https://github.com/eroubue/RezPls/",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPlz/lastest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPlz/lastest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPlz/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPlz/latest.zip"
   },
    {
     "Name": "Fake Name Reborn",
@@ -46,56 +46,33 @@
     "Tags": [
       "假名"
     ],
-    "DalamudApiLevel": 13,
+    "DalamudApiLevel": 14,
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/eroubue/FakeNameReborn",
 	"IconUrl": "https://raw.githubusercontent.com/ArchiDog1998/FakeName/main/icon.png",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/FakeNameReborn/lastest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/FakeNameReborn/lastest.zip"
-  },
-     {
-	"Author": "Critical_Impact Nag0mi",
-	"Name": "Allagan Tools CN",
-	"Punchline": "在 FFXIV 中整合起来，轻松定位/显示物品分类位置、规划你的制作，以及搜索怪物、任务、飞艇和潜艇！",
-	"Description": "Allagan Tool 的主要用途是追踪你的角色/雇员/部队的物品。通过它的过滤系统，你将永远不会丢失物品或不知道它们应该被分类到哪里。\n\n 虽然这是它的主要用途，但它也拥有相当详尽的其他功能，包括：\n\t- 制作规划\n\t- 市场公告板集成\n\t- 在搜索/排序和挑选制作原料时，物品在库存中高亮显示\n\t- 物品窗口包含商人npc和来源信息等\n\t- 雇员探险/狩猎/飞艇/潜艇窗口，可进行全面搜索\n\t- 过滤系统，可让你设置针对特定物品的复杂搜索\n\t- 工具提示集成，让你在鼠标悬停时查看物品的位置。",
-	"Tags": ["Inventory", "Sorting", "Filtering"],
-	"InternalName": "InventoryTools",
-	"RepoUrl": "https://github.com/eroubue/InventoryTools",
-	"LoadPriority": 0,
-	"CanUnloadAsync": false,
-	"IconUrl": "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/icon.png",
-	"ImageUrls": [
-    "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/banner1.png",
-    "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot1.png",
-    "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot2.png",
-    "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot3.png",
-    "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot4.png"
-	],
-    "DalamudApiLevel": 13,
-    "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/InventoryTools/lastest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/InventoryTools/lastest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/FakeNameReborn/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/FakeNameReborn/latest.zip"
   },
      {
     "Name": "JobBars CN",
     "InternalName": "JobBars",
-    "AssemblyVersion": "1.3.2.1",
+    "AssemblyVersion": "1.3.2.3",
     "Author": "ocealot Nag0mi",
     "Punchline": "额外职业量谱",
     "Description": "额外的职业计量表、队伍增益计时器、减伤追踪器等等。图标由 PAPACHIN 设计",
     "ApplicableVersion": "any",
     "Tags": [ "UI", "Bars" ],
-    "DalamudApiLevel": 13,
+    "DalamudApiLevel": 14,
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/eroubue/JobBars",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/JobBars/lastest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/JobBars/lastest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/JobBars/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/JobBars/latest.zip"
   },
   {
 	"Author": "shdwp, Avaflow, abashby, nebel, Nag0mi",
 	"Name": "Party Icons CN",
 	"InternalName": "PartyIcons",
-	"AssemblyVersion": "1.2.3.1",
+	"AssemblyVersion": "1.2.3.2",
 	"Punchline": "用职业图标、职能位置等替换名称",
 	"Description": "根据当前内容调整玩家铭牌。例如，您可以显示团队位置（通过监听聊天自动分配）、职业图标或带有职业图标的名称。",
 	"ApplicableVersion": "any",
@@ -103,16 +80,16 @@
 	"Tags": [
 		"UI"
 	],
-	"DalamudApiLevel": 13,
+	"DalamudApiLevel": 14,
 	"AcceptsFeedback": true,
-	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/PartyIcons/lastest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/PartyIcons/lastest.zip"
+	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/PartyIcons/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/PartyIcons/latest.zip"
 },
   {
 	"Author": "Kouzukii Nag0mi",
 	"Name": "Death Recap CN",
 	"InternalName": "DeathRecap",
-	"AssemblyVersion": "1.13.2.2",
+	"AssemblyVersion": "1.13.3.0",
 	"Description": "快速确认什么玩意弄死了你和你的小伙伴!\n\n显示:\n- 治疗\n- 受到的伤害\n- Debuffs\n- Buffs\n- 盾\n- 伤害来源的目标减",
 	"ApplicableVersion": "any",
 	"RepoUrl": "https://github.com/eroubue/ffxiv-deathrecap",
@@ -125,34 +102,16 @@
 		"utility"
 	],
 	"Punchline": "快速确认什么玩意弄死了你和你的小伙伴!",
-	"DalamudApiLevel": 13,
+	"DalamudApiLevel": 14,
 	"AcceptsFeedback": true,
-	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/DeathRecap/lastest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/DeathRecap/lastest.zip"
+	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/DeathRecap/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/DeathRecap/latest.zip"
 },
-{
-	"Author": "Taurenkey Nag0mi",
-  "Name": "Saucy CN",
-  "Punchline": "有金蝶挂你不开?",
-  "Description": "自动化某些金碟迷你游戏.",
-  "InternalName": "Saucy",
-  "AssemblyVersion": "1.4.2.8",
-  "IconUrl": "https://love.puni.sh/resources/saucy.png",
-  "RepoUrl": "https://github.com/eroubue/Saucy",
-  "DalamudApiLevel": 13,
-  "Tags": [
-    "gold saucer",
-    "mgp",
-    "automation"
-],
-	"AcceptsFeedback": true,
-	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/Saucy/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/Saucy/latest.zip"
-},
+
     {
     "Name": "TPie Reborn",
     "InternalName": "TPie",
-    "AssemblyVersion": "1.12.0.0",
+    "AssemblyVersion": "1.13.0.1",
     "Author": "Nag0mi Tischel",
     "Punchline": "自定义环形热键栏",
     "Description": "高度可配置的快捷栏，可以通过按键绑定进行切换。它们可以填充动作、物品、装备组、宏等等...",
@@ -161,12 +120,12 @@
       "UI",
       "hotkey"
     ],
-    "DalamudApiLevel": 13,
+    "DalamudApiLevel": 14,
     "AcceptsFeedback": true,
     "IconUrl": "https://github.com/eroubue/TPie/master/TPie/Media/icon.png",
     "RepoUrl": "https://github.com/eroubue/TPie",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/TPieReborn/lastest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/TPieReborn/lastest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/TPieReborn/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/TPieReborn/latest.zip"
   }
  
 ]

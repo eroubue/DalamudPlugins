@@ -2,14 +2,14 @@
   "Author": "shdwp, Avaflow, abashby, nebel, Nag0mi",
   "Name": "Party Icons CN",
   "InternalName": "PartyIcons",
-  "AssemblyVersion": "1.2.3.1",
-  "Description": "根据当前内容调整玩家铭牌。例如，您可以显示团队位置（通过监听聊天自动分配）、职业图标或带有职业图标的名称。",
+  "AssemblyVersion": "1.2.3.2",
+  "Description": "PartyIcons plugin",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/eroubue/xivPartyIcons",
   "Tags": [
     "UI"
   ],
-  "DalamudApiLevel": 13,
+  "DalamudApiLevel": 14,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,

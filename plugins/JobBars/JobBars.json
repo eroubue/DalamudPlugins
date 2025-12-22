@@ -1,12 +1,20 @@
 {
-    "Author": "ocealot Nag0mi",
-    "Name": "JobBars CN",
-    "Punchline": "额外职业量谱",
-    "Description": "额外的职业计量表、队伍增益计时器、减伤追踪器等等。图标由 PAPACHIN 设计",
-    "InternalName": "JobBars",
-    "AssemblyVersion": "1.3.2.1",
-    "Tags": [ "UI", "Bars" ],
-    "RepoUrl": "https://github.com/eroubue/JobBars",
-    "DalamudApiLevel": 13,
-    "ApplicableVersion": "any"
+  "Author": "ocealot",
+  "Name": "JobBars",
+  "InternalName": "JobBars",
+  "AssemblyVersion": "1.3.2.3",
+  "Description": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/0ceal0t/JobBars",
+  "Tags": [
+    "UI",
+    "Bars"
+  ],
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Extra job gauges",
+  "AcceptsFeedback": true
 }

@@ -23,6 +23,6 @@
     "https://raw.githubusercontent.com/Kouzukii/ffxiv-characterstatus-refined/master/images/image2.png"
   ],
   "IconUrl": "https://raw.githubusercontent.com/Kouzukii/ffxiv-characterstatus-refined/master/images/icon.png",
-  "Punchline": "优化角色面板，使其仅显示暴击和直击几率等有用信息",
+  "Punchline": "优化角色面板，使其仅显示暴击和直接命中几率等有用信息",
   "AcceptsFeedback": true
 }

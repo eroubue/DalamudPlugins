@@ -1,20 +1,20 @@
 {
-  "Author": "Nag0mi Tischel",
-  "Name": "TPie Reborn",
+  "Author": "Tischel",
+  "Name": "TPie",
   "InternalName": "TPie",
-  "AssemblyVersion": "1.13.0.0",
-  "Description": "高度可配置的快捷栏，可以通过按键绑定进行切换。它们可以填充动作、物品、装备组、宏等等...",
+  "AssemblyVersion": "1.13.0.1",
+  "Description": "Highly configurable hotbars that can be toggled with a keybind. They can be filled with Actions, Items, Gear Sets, Macros and more...",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/eroubue/TPie",
+  "RepoUrl": "https://github.com/Tischel/TPie",
   "Tags": [
     "UI"
   ],
-  "DalamudApiLevel": 13,
+  "DalamudApiLevel": 14,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "自定义环形热键栏",
-  "Changelog": "# 1.13.0.0\n\n- 优化性能.",
+  "Punchline": "Customizable ring-shaped hotbars",
+  "Changelog": "# 1.13.0.1\n\n- Fixed Nested Ring \"Keep Previous Ring Center\" setting not working properly.",
   "AcceptsFeedback": true
 }
