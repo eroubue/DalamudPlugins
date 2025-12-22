@@ -2,7 +2,7 @@
   "Author": "Kouzukii Nag0mi(汉化)",
   "Name": "Character Panel Refined CN",
   "InternalName": "CharacterPanelRefined",
-  "AssemblyVersion": "1.8.4.1",
+  "AssemblyVersion": "1.8.5.0",
   "Description": "角色面板精炼删除了角色面板中无用的信息，同时添加了有用的统计数据，例如暴击和直击概率百分比以及估计伤害输出，以便更轻松地比较装备。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Kouzukii/ffxiv-characterstatus-refined",
@@ -13,7 +13,7 @@
   "CategoryTags": [
     "ui"
   ],
-  "DalamudApiLevel": 13,
+  "DalamudApiLevel": 14,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
@@ -23,6 +23,6 @@
     "https://raw.githubusercontent.com/Kouzukii/ffxiv-characterstatus-refined/master/images/image2.png"
   ],
   "IconUrl": "https://raw.githubusercontent.com/Kouzukii/ffxiv-characterstatus-refined/master/images/icon.png",
-  "Punchline": "优化角色面板，使其仅显示暴击和直接命中几率等有用信息",
+  "Punchline": "优化角色面板，使其仅显示暴击和直击几率等有用信息",
   "AcceptsFeedback": true
 }

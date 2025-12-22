@@ -3,17 +3,17 @@
 	"Author": "Kouzukii Nag0mi",
 	"Name": "Character Panel Refined CN",
 	"InternalName": "CharacterPanelRefined",
-	"AssemblyVersion": "1.8.4.1",
-	"Punchline": "优化角色面板，使其仅显示暴击和直接命中几率等有用信息",
+	"AssemblyVersion": "1.8.5.0",
+	"Punchline": "优化角色面板，使其仅显示暴击和直击几率等有用信息",
 	"Description": "角色面板精炼删除了角色面板中无用的信息，同时添加了有用的统计数据，例如暴击和直击概率百分比以及估计伤害输出，以便更轻松地比较装备。",
 	"ApplicableVersion": "any",
 	"RepoUrl": "https://github.com/eroubue/ffxiv-characterstatus-refined",
-	"DalamudApiLevel": 13,
+	"DalamudApiLevel": 14,
     "AcceptsFeedback": true,
 	"IconUrl": "https://raw.githubusercontent.com/eroubue/ffxiv-characterstatus-refined/master/images/icon.png",
-	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/CharacterPanelRefined/lastest.zip",
-	"DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/CharacterPanelRefined/lastest.zip",
-	"DownloadLinkTesting": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/CharacterPanelRefined/lastest.zip"
+	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/CharacterPanelRefined/latest.zip",
+	"DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/CharacterPanelRefined/latest.zip",
+	"DownloadLinkTesting": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/CharacterPanelRefined/latest.zip"
   },
   {
     "Name": "RezPls CN",
@@ -28,12 +28,12 @@
       "驱散",
       "显示"
     ],
-    "DalamudApiLevel": 13,
+    "DalamudApiLevel": 14,
     "AcceptsFeedback": true,
     "IconUrl": "https://raw.githubusercontent.com/eroubue/RezPls/master/images/icon.png",
     "RepoUrl": "https://github.com/eroubue/RezPls/",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPlz/lastest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPlz/lastest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPlz/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPlz/latest.zip"
   },
    {
     "Name": "Fake Name Reborn",
@@ -46,12 +46,12 @@
     "Tags": [
       "假名"
     ],
-    "DalamudApiLevel": 13,
+    "DalamudApiLevel": 14,
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/eroubue/FakeNameReborn",
 	"IconUrl": "https://raw.githubusercontent.com/ArchiDog1998/FakeName/main/icon.png",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/FakeNameReborn/lastest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/FakeNameReborn/lastest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/FakeNameReborn/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/FakeNameReborn/latest.zip"
   },
      {
 	"Author": "Critical_Impact Nag0mi",
@@ -71,10 +71,10 @@
     "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot3.png",
     "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot4.png"
 	],
-    "DalamudApiLevel": 13,
+    "DalamudApiLevel": 14,
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/InventoryTools/lastest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/InventoryTools/lastest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/InventoryTools/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/InventoryTools/latest.zip"
   },
      {
     "Name": "JobBars CN",
@@ -85,11 +85,11 @@
     "Description": "额外的职业计量表、队伍增益计时器、减伤追踪器等等。图标由 PAPACHIN 设计",
     "ApplicableVersion": "any",
     "Tags": [ "UI", "Bars" ],
-    "DalamudApiLevel": 13,
+    "DalamudApiLevel": 14,
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/eroubue/JobBars",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/JobBars/lastest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/JobBars/lastest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/JobBars/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/JobBars/latest.zip"
   },
   {
 	"Author": "shdwp, Avaflow, abashby, nebel, Nag0mi",
@@ -103,10 +103,10 @@
 	"Tags": [
 		"UI"
 	],
-	"DalamudApiLevel": 13,
+	"DalamudApiLevel": 14,
 	"AcceptsFeedback": true,
-	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/PartyIcons/lastest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/PartyIcons/lastest.zip"
+	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/PartyIcons/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/PartyIcons/latest.zip"
 },
   {
 	"Author": "Kouzukii Nag0mi",
@@ -125,10 +125,10 @@
 		"utility"
 	],
 	"Punchline": "快速确认什么玩意弄死了你和你的小伙伴!",
-	"DalamudApiLevel": 13,
+	"DalamudApiLevel": 14,
 	"AcceptsFeedback": true,
-	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/DeathRecap/lastest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/DeathRecap/lastest.zip"
+	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/DeathRecap/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/DeathRecap/latest.zip"
 },
 {
 	"Author": "Taurenkey Nag0mi",
@@ -139,7 +139,7 @@
   "AssemblyVersion": "1.4.2.8",
   "IconUrl": "https://love.puni.sh/resources/saucy.png",
   "RepoUrl": "https://github.com/eroubue/Saucy",
-  "DalamudApiLevel": 13,
+  "DalamudApiLevel": 14,
   "Tags": [
     "gold saucer",
     "mgp",
@@ -161,12 +161,12 @@
       "UI",
       "hotkey"
     ],
-    "DalamudApiLevel": 13,
+    "DalamudApiLevel": 14,
     "AcceptsFeedback": true,
     "IconUrl": "https://github.com/eroubue/TPie/master/TPie/Media/icon.png",
     "RepoUrl": "https://github.com/eroubue/TPie",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/TPieReborn/lastest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/TPieReborn/lastest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/TPieReborn/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/TPieReborn/latest.zip"
   }
  
 ]
