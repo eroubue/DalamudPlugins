@@ -35,21 +35,21 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPlz/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPlz/latest.zip"
   },
-	{
-   "Author": "ReMakePlace Maintainers Nag0mi(汉化)",
-  "Name": "ReMakePlace Plugin CN",
-  "InternalName": "ReMakePlacePlugin",
-  "AssemblyVersion": "7.4.0.0",
-  "Description": "自动保存和加载室内及室外房屋布局。从 ReMakePlace 程序导入/导出布局。",
-  "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/ReMakePlace/plugin",
-  "Tags": [
+  {
+    "Author": "ReMakePlace Maintainers Nag0mi(汉化)",
+    "Name": "ReMakePlace Plugin CN",
+    "InternalName": "ReMakePlacePlugin",
+    "AssemblyVersion": "7.4.0.0",
+    "Description": "自动保存和加载室内及室外房屋布局。从 ReMakePlace 程序导入/导出布局。",
+    "ApplicableVersion": "any",
+   "RepoUrl": "https://github.com/ReMakePlace/plugin",
+    "Tags": [
     "makeplace",
     "housing",
     "furniture",
     "remakeplace",
     "re-makeplace"
-  ],
+    ],
  	 "DalamudApiLevel": 14,
  	 "LoadRequiredState": 0,
  	 "LoadSync": false,
@@ -57,7 +57,7 @@
   	"LoadPriority": 0,
   	"IconUrl": "https://raw.githubusercontent.com/ReMakePlace/Plugin/master/icon.png",
   	"Punchline": "自动保存和加载室内及室外房屋布局。",
-  	"AcceptsFeedback": true
+  	"AcceptsFeedback": true,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/ReMakePlacePlugin/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/ReMakePlacePlugin/latest.zip"
   },
