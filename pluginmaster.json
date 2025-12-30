@@ -35,23 +35,31 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPlz/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPlz/latest.zip"
   },
-   {
-    "Name": "Fake Name Reborn",
-    "InternalName": "FakeNameReborn",
-    "AssemblyVersion": "1.3.2.0",
-    "Author": "Nag0mi",
-    "Punchline": "享受无限制的修改id功能",
-    "Description": "重生之我是FF14打号王!享受无限制的修改id功能.",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "假名"
-    ],
-    "DalamudApiLevel": 14,
-    "AcceptsFeedback": true,
-    "RepoUrl": "https://github.com/eroubue/FakeNameReborn",
-	"IconUrl": "https://raw.githubusercontent.com/ArchiDog1998/FakeName/main/icon.png",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/FakeNameReborn/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/FakeNameReborn/latest.zip"
+	{
+   "Author": "ReMakePlace Maintainers Nag0mi(汉化)",
+  "Name": "ReMakePlace Plugin CN",
+  "InternalName": "ReMakePlacePlugin",
+  "AssemblyVersion": "7.4.0.0",
+  "Description": "自动保存和加载室内及室外房屋布局。从 ReMakePlace 程序导入/导出布局。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/ReMakePlace/plugin",
+  "Tags": [
+    "makeplace",
+    "housing",
+    "furniture",
+    "remakeplace",
+    "re-makeplace"
+  ],
+ 	 "DalamudApiLevel": 14,
+ 	 "LoadRequiredState": 0,
+ 	 "LoadSync": false,
+  	"CanUnloadAsync": false,
+  	"LoadPriority": 0,
+  	"IconUrl": "https://raw.githubusercontent.com/ReMakePlace/Plugin/master/icon.png",
+  	"Punchline": "自动保存和加载室内及室外房屋布局。",
+  	"AcceptsFeedback": true
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/ReMakePlacePlugin/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/ReMakePlacePlugin/latest.zip"
   },
      {
     "Name": "JobBars CN",
