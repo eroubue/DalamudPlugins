@@ -1,0 +1,24 @@
+{
+  "Author": "ReMakePlace Maintainers",
+  "Name": "ReMakePlace Plugin",
+  "InternalName": "ReMakePlacePlugin",
+  "AssemblyVersion": "7.4.0.0",
+  "Description": "Automatically save & load interior and exterior house layouts. Import/export layouts from the ReMakePlace program.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/ReMakePlace/plugin",
+  "Tags": [
+    "makeplace",
+    "housing",
+    "furniture",
+    "remakeplace",
+    "re-makeplace"
+  ],
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/ReMakePlace/Plugin/master/icon.png",
+  "Punchline": "Automatically save & load furniture layouts in your house.",
+  "AcceptsFeedback": true
+}
