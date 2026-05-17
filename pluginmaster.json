@@ -15,6 +15,22 @@
 	"DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/CharacterPanelRefined/latest.zip",
 	"DownloadLinkTesting": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/CharacterPanelRefined/latest.zip"
   },
+    {
+	"Author": "Nag0mi",
+	"Name": "HyperAgent",
+	"InternalName": "HyperAgent",
+	"AssemblyVersion": "1.0.0.1",
+	"Punchline": "Special Signature to Save a Soul",
+	"Description": "HyperAgent - 思い出してくれ、君の“シメイ”を!",
+	"ApplicableVersion": "any",
+	"RepoUrl": "https://github.com/eroubue/HyperAgent",
+	"DalamudApiLevel": 14,
+    "AcceptsFeedback": true,
+	"IconUrl": "https://raw.githubusercontent.com/eroubue/HyperAgent/master/images/icon.png",
+	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/HyperAgent/latest.zip",
+	"DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/HyperAgent/latest.zip",
+	"DownloadLinkTesting": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/HyperAgent/latest.zip"
+  },
   {
     "Name": "RezPls CN",
     "InternalName": "RezPls",
