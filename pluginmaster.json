@@ -32,8 +32,8 @@
         "AcceptsFeedback":  true,
         "IconUrl":  "https://raw.githubusercontent.com/eroubue/RezPls/master/images/icon.png",
         "RepoUrl":  "https://github.com/eroubue/RezPls/",
-        "DownloadLinkInstall":  "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPlz/latest.zip",
-        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPlz/latest.zip"
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPls/latest.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPls/latest.zip"
     },
     {
         "Author":  "ReMakePlace Maintainers Nag0mi(汉化)",
@@ -116,7 +116,7 @@
         "AcceptsFeedback":  true,
         "IconUrl":  "https://github.com/eroubue/TPie/master/TPie/Media/icon.png",
         "RepoUrl":  "https://github.com/eroubue/TPie",
-        "DownloadLinkInstall":  "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/TPieReborn/latest.zip",
-        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/TPieReborn/latest.zip"
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/TPie/latest.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/TPie/latest.zip"
     }
 ]
