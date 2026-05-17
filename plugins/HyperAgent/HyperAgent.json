@@ -1,0 +1,26 @@
+{
+  "Author": "Nag0mi",
+  "Name": "HyperAgent",
+  "InternalName": "HyperAgent",
+  "AssemblyVersion": "1.0.0.1",
+  "Description": "HyperAgent - 思い出してくれ、君の“シメイ”を!",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Nag0mi/HyperAgent",
+  "Tags": [
+    "utility",
+    "position",
+    "safety",
+    "name",
+    "replacement"
+  ],
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "ImageUrls": [],
+  "IconUrl": "",
+  "Punchline": "Special Signature to Save a Soul",
+  "Changelog": "",
+  "AcceptsFeedback": true
+}
