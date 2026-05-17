@@ -1,155 +1,122 @@
 [
-  {
-	"Author": "Kouzukii Nag0mi",
-	"Name": "Character Panel Refined CN",
-	"InternalName": "CharacterPanelRefined",
-	"AssemblyVersion": "1.8.5.0",
-	"Punchline": "优化角色面板，使其仅显示暴击和直击几率等有用信息",
-	"Description": "角色面板精炼删除了角色面板中无用的信息，同时添加了有用的统计数据，例如暴击和直击概率百分比以及估计伤害输出，以便更轻松地比较装备。",
-	"ApplicableVersion": "any",
-	"RepoUrl": "https://github.com/eroubue/ffxiv-characterstatus-refined",
-	"DalamudApiLevel": 14,
-    "AcceptsFeedback": true,
-	"IconUrl": "https://raw.githubusercontent.com/eroubue/ffxiv-characterstatus-refined/master/images/icon.png",
-	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/CharacterPanelRefined/latest.zip",
-	"DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/CharacterPanelRefined/latest.zip",
-	"DownloadLinkTesting": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/CharacterPanelRefined/latest.zip"
-  },
     {
-	"Author": "Nag0mi",
-	"Name": "HyperAgent",
-	"InternalName": "HyperAgent",
-	"AssemblyVersion": "1.0.0.1",
-	"Punchline": "Special Signature to Save a Soul",
-	"Description": "HyperAgent - 思い出してくれ、君の“シメイ”を!",
-	"ApplicableVersion": "any",
-	"RepoUrl": "https://github.com/eroubue/HyperAgent",
-	"DalamudApiLevel": 14,
-    "AcceptsFeedback": true,
-	"IconUrl": "https://raw.githubusercontent.com/eroubue/HyperAgent/master/images/icon.png",
-	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/HyperAgent/latest.zip",
-	"DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/HyperAgent/latest.zip",
-	"DownloadLinkTesting": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/HyperAgent/latest.zip"
-  },
-  {
-    "Name": "RezPls CN",
-    "InternalName": "RezPls",
-    "AssemblyVersion": "1.5.3.0",
-    "Author": "Ottermandias Nag0mi",
-    "Punchline": "高亮显示被复活和可被驱散的debuff状态.",
-    "Description": "轻松概览谁正在复活谁,\n已经复活了,\n以及世界上谁拥有可驱散的debuff影响.",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "复活",
-      "驱散",
-      "显示"
-    ],
-    "DalamudApiLevel": 14,
-    "AcceptsFeedback": true,
-    "IconUrl": "https://raw.githubusercontent.com/eroubue/RezPls/master/images/icon.png",
-    "RepoUrl": "https://github.com/eroubue/RezPls/",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPlz/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPlz/latest.zip"
-  },
-  {
-    "Author": "ReMakePlace Maintainers Nag0mi(汉化)",
-    "Name": "ReMakePlace Plugin CN",
-    "InternalName": "ReMakePlacePlugin",
-    "AssemblyVersion": "7.4.0.0",
-    "Description": "自动保存和加载室内及室外房屋布局。从 ReMakePlace 程序导入/导出布局。",
-    "ApplicableVersion": "any",
-   "RepoUrl": "https://github.com/ReMakePlace/plugin",
-    "Tags": [
-    "makeplace",
-    "housing",
-    "furniture",
-    "remakeplace",
-    "re-makeplace"
-    ],
- 	 "DalamudApiLevel": 14,
- 	 "LoadRequiredState": 0,
- 	 "LoadSync": false,
-  	"CanUnloadAsync": false,
-  	"LoadPriority": 0,
-  	"IconUrl": "https://raw.githubusercontent.com/ReMakePlace/Plugin/master/icon.png",
-  	"Punchline": "自动保存和加载室内及室外房屋布局。",
-  	"AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/ReMakePlacePlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/ReMakePlacePlugin/latest.zip"
-  },
-     {
-    "Name": "JobBars CN",
-    "InternalName": "JobBars",
-    "AssemblyVersion": "1.3.2.3",
-    "Author": "ocealot Nag0mi",
-    "Punchline": "额外职业量谱",
-    "Description": "额外的职业计量表、队伍增益计时器、减伤追踪器等等。图标由 PAPACHIN 设计",
-    "ApplicableVersion": "any",
-    "Tags": [ "UI", "Bars" ],
-    "DalamudApiLevel": 14,
-    "AcceptsFeedback": true,
-    "RepoUrl": "https://github.com/eroubue/JobBars",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/JobBars/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/JobBars/latest.zip"
-  },
-  {
-	"Author": "shdwp, Avaflow, abashby, nebel, Nag0mi",
-	"Name": "Party Icons CN",
-	"InternalName": "PartyIcons",
-	"AssemblyVersion": "1.2.3.2",
-	"Punchline": "用职业图标、职能位置等替换名称",
-	"Description": "根据当前内容调整玩家铭牌。例如，您可以显示团队位置（通过监听聊天自动分配）、职业图标或带有职业图标的名称。",
-	"ApplicableVersion": "any",
-	"RepoUrl": "https://github.com/eroubue/xivPartyIcons",
-	"Tags": [
-		"UI"
-	],
-	"DalamudApiLevel": 14,
-	"AcceptsFeedback": true,
-	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/PartyIcons/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/PartyIcons/latest.zip"
-},
-  {
-	"Author": "Kouzukii Nag0mi",
-	"Name": "Death Recap CN",
-	"InternalName": "DeathRecap",
-	"AssemblyVersion": "1.13.3.0",
-	"Description": "快速确认什么玩意弄死了你和你的小伙伴!\n\n显示:\n- 治疗\n- 受到的伤害\n- Debuffs\n- Buffs\n- 盾\n- 伤害来源的目标减",
-	"ApplicableVersion": "any",
-	"RepoUrl": "https://github.com/eroubue/ffxiv-deathrecap",
-	"Tags": [
-		"death",
-		"recap",
-		"log"
-	],
-	"CategoryTags": [
-		"utility"
-	],
-	"Punchline": "快速确认什么玩意弄死了你和你的小伙伴!",
-	"DalamudApiLevel": 14,
-	"AcceptsFeedback": true,
-	"DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/DeathRecap/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/DeathRecap/latest.zip"
-},
-
+        "Author":  "Kouzukii Nag0mi",
+        "Name":  "Character Panel Refined CN",
+        "InternalName":  "CharacterPanelRefined",
+        "AssemblyVersion":  "1.8.6.0",
+        "Punchline":  "角色面板优化，只显示有用的信息，比如暴击率和直击率",
+        "Description":  "角色面板优化去除了无用信息，同时添加了暴击率和直击率等有用数据，以及估算伤害输出，以便更容易比较装备。",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://github.com/eroubue/ffxiv-characterstatus-refined",
+        "DalamudApiLevel":  15,
+        "AcceptsFeedback":  true,
+        "IconUrl":  "https://raw.githubusercontent.com/eroubue/ffxiv-characterstatus-refined/master/images/icon.png",
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/CharacterPanelRefined/latest.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/CharacterPanelRefined/latest.zip",
+        "DownloadLinkTesting":  "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/CharacterPanelRefined/latest.zip"
+    },
     {
-    "Name": "TPie Reborn",
-    "InternalName": "TPie",
-    "AssemblyVersion": "1.13.0.1",
-    "Author": "Nag0mi Tischel",
-    "Punchline": "自定义环形热键栏",
-    "Description": "高度可配置的快捷栏，可以通过按键绑定进行切换。它们可以填充动作、物品、装备组、宏等等...",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "UI",
-      "hotkey"
-    ],
-    "DalamudApiLevel": 14,
-    "AcceptsFeedback": true,
-    "IconUrl": "https://github.com/eroubue/TPie/master/TPie/Media/icon.png",
-    "RepoUrl": "https://github.com/eroubue/TPie",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/TPieReborn/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/TPieReborn/latest.zip"
-  }
- 
+        "Name":  "RezPls CN",
+        "InternalName":  "RezPls",
+        "AssemblyVersion":  "1.5.4.0",
+        "Author":  "Ottermandias Nag0mi",
+        "Punchline":  "高亮显示被复活和可被驱散的debuff状态.",
+        "Description":  "轻松概览谁正在复活谁,\n已经复活了,\n以及世界上谁拥有可驱散的debuff影响.",
+        "ApplicableVersion":  "any",
+        "Tags":  [
+                     "复活",
+                     "驱散",
+                     "显示"
+                 ],
+        "DalamudApiLevel":  15,
+        "AcceptsFeedback":  true,
+        "IconUrl":  "https://raw.githubusercontent.com/eroubue/RezPls/master/images/icon.png",
+        "RepoUrl":  "https://github.com/eroubue/RezPls/",
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPlz/latest.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/RezPlz/latest.zip"
+    },
+    {
+        "Author":  "ReMakePlace Maintainers Nag0mi(汉化)",
+        "Name":  "ReMakePlace Plugin CN",
+        "InternalName":  "ReMakePlacePlugin",
+        "AssemblyVersion":  "7.5.1.0",
+        "Description":  "自动保存和加载室内及室外房屋布局。从 ReMakePlace 程序导入/导出布局。",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://github.com/ReMakePlace/plugin",
+        "Tags":  [
+                     "makeplace",
+                     "housing",
+                     "furniture",
+                     "remakeplace",
+                     "re-makeplace"
+                 ],
+        "DalamudApiLevel":  15,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "IconUrl":  "https://raw.githubusercontent.com/ReMakePlace/Plugin/master/icon.png",
+        "Punchline":  "自动保存和加载室内及室外房屋布局。",
+        "AcceptsFeedback":  true,
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/ReMakePlacePlugin/latest.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/ReMakePlacePlugin/latest.zip"
+    },
+    {
+        "Author":  "shdwp, Avaflow, abashby, nebel, Nag0mi",
+        "Name":  "Party Icons CN",
+        "InternalName":  "PartyIcons",
+        "AssemblyVersion":  "1.2.3.4",
+        "Punchline":  "用职业图标、职能位置等替换名称",
+        "Description":  "根据当前内容调整玩家铭牌。例如，您可以显示团队位置（通过监听聊天自动分配）、职业图标或带有职业图标的名称。",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://github.com/eroubue/xivPartyIcons",
+        "Tags":  [
+                     "UI"
+                 ],
+        "DalamudApiLevel":  15,
+        "AcceptsFeedback":  true,
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/PartyIcons/latest.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/PartyIcons/latest.zip"
+    },
+    {
+        "Author":  "Kouzukii Nag0mi",
+        "Name":  "Death Recap CN",
+        "InternalName":  "DeathRecap",
+        "AssemblyVersion":  "1.13.4.0",
+        "Description":  "快速确认什么玩意弄死了你和你的小伙伴!\n\nShows:\n- Healing\n- Damage taken\n- Debuffs\n- Buffs\n- Barriers\n- Addle, Feint, Reprisal on damage source",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://github.com/eroubue/ffxiv-deathrecap",
+        "Tags":  [
+                     "death",
+                     "recap",
+                     "log"
+                 ],
+        "CategoryTags":  [
+                             "utility"
+                         ],
+        "Punchline":  "快速确认什么玩意弄死了你和你的小伙伴!",
+        "DalamudApiLevel":  15,
+        "AcceptsFeedback":  true,
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/DeathRecap/latest.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/DeathRecap/latest.zip"
+    },
+    {
+        "Name":  "TPie Reborn",
+        "InternalName":  "TPie",
+        "AssemblyVersion":  "1.14.0.0",
+        "Author":  "Nag0mi Tischel",
+        "Punchline":  "自定义环形热键栏",
+        "Description":  "高度可配置的快捷栏，可以通过按键绑定进行切换。它们可以填充动作、物品、装备组、宏等等",
+        "ApplicableVersion":  "any",
+        "Tags":  [
+                     "UI",
+                     "hotkey"
+                 ],
+        "DalamudApiLevel":  15,
+        "AcceptsFeedback":  true,
+        "IconUrl":  "https://github.com/eroubue/TPie/master/TPie/Media/icon.png",
+        "RepoUrl":  "https://github.com/eroubue/TPie",
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/TPieReborn/latest.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/eroubue/DalamudPlugins/refs/heads/main/plugins/TPieReborn/latest.zip"
+    }
 ]

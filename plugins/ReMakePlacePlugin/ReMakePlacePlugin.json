@@ -1,8 +1,8 @@
 {
-  "Author": "ReMakePlace Maintainers Nag0mi(汉化)",
+  "Author": "ReMakePlace Maintainers Nag0mi",
   "Name": "ReMakePlace Plugin CN",
   "InternalName": "ReMakePlacePlugin",
-  "AssemblyVersion": "7.4.0.0",
+  "AssemblyVersion": "7.5.1.0",
   "Description": "自动保存和加载室内及室外房屋布局。从 ReMakePlace 程序导入/导出布局。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/ReMakePlace/plugin",
@@ -13,7 +13,7 @@
     "remakeplace",
     "re-makeplace"
   ],
-  "DalamudApiLevel": 14,
+  "DalamudApiLevel": 15,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
