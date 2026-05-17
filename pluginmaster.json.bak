@@ -5,7 +5,7 @@
         "InternalName":  "CharacterPanelRefined",
         "AssemblyVersion":  "1.8.6.0",
         "Punchline":  "角色面板优化，只显示有用的信息，比如暴击率和直击率",
-        "Description":  "角色面板优化去除了无用信息，同时添加了暴击率和直击率等有用数据，估算伤害输出，以便比较装备。",
+        "Description":  "角色面板优化去除了无用信息，同时添加了暴击率和直击率等有用数据，以及估算伤害输出，以便更容易比较装备。",
         "ApplicableVersion":  "any",
         "RepoUrl":  "https://github.com/eroubue/ffxiv-characterstatus-refined",
         "DalamudApiLevel":  15,
