@@ -1,0 +1,21 @@
+{
+  "Author": "Ashy",
+  "Name": "The Collector CN",
+  "InternalName": "TheCollector",
+  "AssemblyVersion": "0.8.1.0",
+  "Description": "自动完成收藏品上交，并在达到代币上限时自动购买指定物品。与 GatherBuddyReborn 和 Artisan 集成，让您能够创建完美的采集、制作和上交循环。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Ashylila/TheCollector",
+  "Tags": [
+    "collectables",
+    "automation"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/Ashylila/TheCollector/refs/heads/master/icon.png",
+  "Punchline": "自动上交收藏品并购买指定的兑换券物品",
+  "AcceptsFeedback": false
+}
